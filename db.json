@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "Country": "India",
+            "City": "Lko",
+            "population": 190000,
+            "id": 1
+        }
+    ]
+}
