@@ -1,13 +1,6 @@
 {
   "user": [
     {
-      "name": "UK",
-      "address": "loutsamna",
-      "email": "jerru",
-      "contact": "13673677367635",
-      "id": 1
-    },
-    {
       "name": "INDIA",
       "address": "lucknow",
       "email": "jaerru",
@@ -20,6 +13,56 @@
       "contact": "2222222222",
       "address": "fdfd",
       "id": 3
+    },
+    {
+      "name": "NEPAL",
+      "email": "KATHMANU",
+      "contact": "10000000",
+      "address": "DCF",
+      "id": 4
+    }
+  ],
+  "countries": [
+    {
+      "Name": "INDIA"
+    },
+    {
+      "Name": "Srilanka"
+    },
+    {
+      "Name": "USA"
+    }
+  ],
+  "city": [
+    {
+      "id": "1",
+      "Country": "INDIA",
+      "City": "Delhi",
+      "population": "19,000,000"
+    },
+    {
+      "id": "2",
+      "Country": "Srilanka",
+      "City": " Colombo",
+      "population": "5,600,000"
+    },
+    {
+      "id": "3",
+      "Country": "USA",
+      "City": "sanfrancisco",
+      "population": "29,000,000"
+    },
+    {
+      "City": "dhaka",
+      "population": "bangladesh",
+      "Country": "",
+      "id": "n6W2Js6"
+    },
+    {
+      "City": "vad",
+      "population": "200",
+      "Country": "",
+      "id": "zwFYPiU"
     }
   ]
 }
