@@ -1,10 +1,32 @@
 {
-    "users": [
-        {
-            "Country": "India",
-            "City": "Lko",
-            "population": 190000,
-            "id": 1
-        }
-    ]
+  "user": [
+    {
+      "name": "UK",
+      "address": "loutsamna",
+      "email": "jerru",
+      "contact": "13673677367635",
+      "id": 1
+    },
+    {
+      "name": "INDIA",
+      "address": "lucknow",
+      "email": "jaerru",
+      "contact": "13786646476",
+      "id": 2
+    },
+    {
+      "name": "AMERICA",
+      "email": "california",
+      "contact": "1484785787",
+      "address": "jerru",
+      "id": 3
+    },
+    {
+      "name": "ITALY",
+      "email": "jerry",
+      "contact": "347846746",
+      "address": "moscow",
+      "id": 4
+    }
+  ]
 }
